@@ -5,7 +5,7 @@ For more information, check out the official project page: https://eaton-works.c
 
 # History & Things to know
 
-Shortly after finishing v1.1.1 in the fall of 2012, work started on v2.0. Work continued until mid-2013, where other projects started taking up my time and the project fell off my radar. There have been no significant developments since mid-2013, and <b>no further development is currently planned</b>.
+Shortly after finishing v1.1.1 in the fall of 2012, work started on v2.0. Work continued until mid-2013. Other projects started taking up my time, so DevTool was put on the backburner. There have been no significant developments since mid-2013, and <b>no further development is currently planned</b>.
 
 The source code in this repository is for the latest, unfinished copy of v2.0. Aside from updating a few project files for Visual Studio 2017 and DevExpress v18.1 compatibility, most of the code is as it was left in mid-2013.
 
