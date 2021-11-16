@@ -1,7 +1,7 @@
 # What is DevTool?
 
 DevTool is a .NET Framework v4.0 WinForms application.
-For more information, check out the official project page: https://eaton-works.com/devtool/
+For more information, check out the official project page: https://eaton-works.com/projects/devtool/
 
 # History & Things to know
 
@@ -20,7 +20,7 @@ Unfortunately, I cannot remember <i>exactly</i> where I left off.
 
 It is recommended that you simply use the code as a reference in a new project of your own. This is an old project and its age is showing.
 
-Make sure XDK v21173 or higher is installed. Also install <a href="https://go.devexpress.com/DevexpressDownload_UniversalTrial.aspx"> DevExpress WinForms Components</a> v18.1.5 or higher. If higher, make sure you run DevTool through the <a href="https://documentation.devexpress.com/ProjectConverter/2529/Project-Converter">DevExpress Components Project Converter</a>.
+Make sure XDK v21173 or higher is installed. Also install <a href="https://go.devexpress.com/DevexpressDownload_UniversalTrial.aspx"> DevExpress WinForms Components</a> v18.1.5 or higher. If higher, make sure you run DevTool through the <a href="https://docs.devexpress.com/ProjectConverter/2529/project-converter">DevExpress Components Project Converter</a>.
 
 Before compiling, copy xdevkit.dll (the 32bit version) into DevTool's bin folder manually or you may get a FileNotFoundException on startup.
 
